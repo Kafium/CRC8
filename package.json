@@ -7,10 +7,5 @@
     "type": "git",
     "url": "git+https://github.com/Kafium/KCrypto.git"
   },
-  "author": "Kafium",
-  "license": "GPL-2.0",
-  "bugs": {
-    "url": "https://github.com/Kafium/KCrypto/issues"
-  },
-  "homepage": "https://github.com/Kafium/KCrypto#readme"
+  "license": "GPL-2.0"
 }
